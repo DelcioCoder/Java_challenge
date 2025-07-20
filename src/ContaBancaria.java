@@ -1,6 +1,6 @@
 public class ContaBancaria {
-    int numeroConta;
-    double saldo;
+    private int numeroConta;
+    private double saldo;
 
     public ContaBancaria(int numeroConta, double saldoInicial) {
         this.numeroConta = numeroConta;
